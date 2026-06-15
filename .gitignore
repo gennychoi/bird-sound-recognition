@@ -1,0 +1,31 @@
+# 数据集
+birdclef-2026/
+birdclef-2026.zip
+
+# 大型特征数组
+features/X_*.npy
+
+# 训练好的模型权重
+models/*.pt
+models/*.pkl
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# LaTeX 编译产物
+report/*.aux
+report/*.log
+report/*.synctex.gz
+
+# 临时文件
+~$*.doc
+*.mkv
+claude.exe
+
+# Claude Code 配置
+.claude/
+
+# Word 文档
+*.doc
+*.docx

@@ -1,0 +1,34 @@
+# LaTeX 编译临时文件
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.log
+*.tmp
+*.bak
+
+# PDF 生成文件（可选，注释掉以保留 PDF）
+# *.pdf
+
+# 图片源文件（如果有）
+*.eps
+*.svg
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Windows
+Thumbs.db
